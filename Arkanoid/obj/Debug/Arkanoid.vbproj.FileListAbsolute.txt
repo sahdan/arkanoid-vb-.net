@@ -1,0 +1,22 @@
+F:\Google Drive\STTS\Semester 3\.Net Programming\Arkanoid\Arkanoid\bin\Debug\Arkanoid.exe.config
+F:\Google Drive\STTS\Semester 3\.Net Programming\Arkanoid\Arkanoid\bin\Debug\Arkanoid.exe
+F:\Google Drive\STTS\Semester 3\.Net Programming\Arkanoid\Arkanoid\bin\Debug\Arkanoid.pdb
+F:\Google Drive\STTS\Semester 3\.Net Programming\Arkanoid\Arkanoid\bin\Debug\Arkanoid.xml
+F:\Google Drive\STTS\Semester 3\.Net Programming\Arkanoid\Arkanoid\obj\Debug\Arkanoid.vbprojResolveAssemblyReference.cache
+F:\Google Drive\STTS\Semester 3\.Net Programming\Arkanoid\Arkanoid\obj\Debug\Arkanoid.Form1.resources
+F:\Google Drive\STTS\Semester 3\.Net Programming\Arkanoid\Arkanoid\obj\Debug\Arkanoid.Resources.resources
+F:\Google Drive\STTS\Semester 3\.Net Programming\Arkanoid\Arkanoid\obj\Debug\Arkanoid.vbproj.GenerateResource.Cache
+F:\Google Drive\STTS\Semester 3\.Net Programming\Arkanoid\Arkanoid\obj\Debug\Arkanoid.exe
+F:\Google Drive\STTS\Semester 3\.Net Programming\Arkanoid\Arkanoid\obj\Debug\Arkanoid.xml
+F:\Google Drive\STTS\Semester 3\.Net Programming\Arkanoid\Arkanoid\obj\Debug\Arkanoid.pdb
+D:\NET\Arkanoid\Arkanoid\bin\Debug\Arkanoid.exe.config
+D:\NET\Arkanoid\Arkanoid\obj\Debug\Arkanoid.exe
+D:\NET\Arkanoid\Arkanoid\obj\Debug\Arkanoid.xml
+D:\NET\Arkanoid\Arkanoid\obj\Debug\Arkanoid.pdb
+D:\NET\Arkanoid\Arkanoid\obj\Debug\Arkanoid.vbprojResolveAssemblyReference.cache
+D:\NET\Arkanoid\Arkanoid\obj\Debug\Arkanoid.Form1.resources
+D:\NET\Arkanoid\Arkanoid\obj\Debug\Arkanoid.Resources.resources
+D:\NET\Arkanoid\Arkanoid\obj\Debug\Arkanoid.vbproj.GenerateResource.Cache
+D:\NET\Arkanoid\Arkanoid\bin\Debug\Arkanoid.exe
+D:\NET\Arkanoid\Arkanoid\bin\Debug\Arkanoid.pdb
+D:\NET\Arkanoid\Arkanoid\bin\Debug\Arkanoid.xml
